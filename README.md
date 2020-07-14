@@ -1,4 +1,4 @@
-### Hi, I'm Gavin 👋
+### Hi, I'm Gavin 👋, currently attending the full-stack web development program at [Lambda School](https://lambdaschool.com/). Thanks for stopping by! :rocket:
 
 ![GitHub Logo](https://media0.giphy.com/media/AOSwwqVjNZlDO/giphy.gif?cid=ecf05e47cf00da701398b88f80551e2a3220b46a6d086df0&rid=giphy.gif)
 
