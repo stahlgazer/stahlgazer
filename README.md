@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![GitHub Logo](https://media0.giphy.com/media/AOSwwqVjNZlDO/giphy.gif?cid=ecf05e47cf00da701398b88f80551e2a3220b46a6d086df0&rid=giphy.gif)
