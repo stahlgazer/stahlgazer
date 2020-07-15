@@ -1,9 +1,9 @@
 ### Hi, I'm Gavin 👋, currently attending the full-stack web development program at [Lambda School](https://lambdaschool.com/). Thanks for stopping by! :rocket:
 
-## A great day coding:
+## A great day of coding:
 ![Computer Guy](https://www.animatedimages.org/data/media/56/animated-computer-image-0116.gif)
 <br>
-## A normal day coding:
+## A normal day of coding:
 ![Computer Guy2](https://www.animatedimages.org/data/media/56/animated-computer-image-0004.gif)
 
 <p>
