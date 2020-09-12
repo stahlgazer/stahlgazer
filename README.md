@@ -1,20 +1,15 @@
 ```js
+
 export default () => ({
-  Name: "Gavin S.",
   
+  Name: "Gavin S.",
   technologies: {
     frontEnd: {
-      js: [ "react" ],
+      js: [ "react", "graphql", "redux" ],
       css: [ "material-ui", "reactstrap", "bootstrap", "scss/less" ]
     },
-    backEnd: {
-      js: [ "node", "express", "graphQL" ],
-    },
-    databases: [ "sqlite", "postgres", "okta" ]
+    backEnd: [ "node", "express", "graphql", "sql", "sqlite", "postgres", "okta" ]
   },
-  hobbies: [
-    "tech", "cars", "gaming"
-    "basketball", "investment trading",
-  ],
+  hobbies: [ "tech", "cars", "gaming", "basketball", "investment trading" ]
 });
 ```
