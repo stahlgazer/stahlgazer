@@ -1,29 +1,20 @@
 ```js
 export default () => ({
-  Name: "Gavin" && "Stahl",
-  askMeAbout: [
-    "webdev", "tech", 
-    "basketball", "investment trading",
-  ],
+  Name: "Gavin S.",
+  
   technologies: {
     frontEnd: {
       js: ["react"],
-      css: ["materialize", "bulma", "bootstrap"]
+      css: ["material-ui", "reactstrap", "bootstrap", "scss/less"]
     },
     backEnd: {
-      java: ["spring"],
       js: ["node", "express"],
-      csharp: ["asp.net core"],
-      python: ["django", "flask"],
-      misc: ["bash", "systemd", "selinux"]
     },
-    machineLearning: ["tensorflow", "keras", "pytorch"],
-    databases: ["mongo", "postgres", "redis"]
+    databases: ["sqlite", "postgres", "okta"]
   },
-  memberships: [
-    "Internet Freedom Foundation",
-    "Association for Computing Machinery",
-    "Institute of Electrical and Electronics Engineers"
-  ]
+  hobbies: [
+    "tech", "cars", "gaming"
+    "basketball", "investment trading",
+  ],
 });
 ```
