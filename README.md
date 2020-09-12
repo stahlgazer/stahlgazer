@@ -4,13 +4,13 @@ export default () => ({
   
   technologies: {
     frontEnd: {
-      js: ["react"],
-      css: ["material-ui", "reactstrap", "bootstrap", "scss/less"]
+      js: [ "react" ],
+      css: [ "material-ui", "reactstrap", "bootstrap", "scss/less" ]
     },
     backEnd: {
-      js: ["node", "express"],
+      js: [ "node", "express", "graphQL" ],
     },
-    databases: ["sqlite", "postgres", "okta"]
+    databases: [ "sqlite", "postgres", "okta" ]
   },
   hobbies: [
     "tech", "cars", "gaming"
