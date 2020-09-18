@@ -9,7 +9,7 @@ export default () => ({
       js: [ "react", "graphql", "redux" ],
       css: [ "material-ui", "reactstrap", "bootstrap", "scss/less" ]
     },
-    BackEnd: [ "node", "express", "graphql", "sqlite", "postgres", "okta" ],
+    BackEnd: [ "node", "express", "graphql", "sqlite", "postgresql", "okta" ],
   },
   Hobbies: [ "tech", "cars", "gaming", "basketball", "investment trading" ]
 });
