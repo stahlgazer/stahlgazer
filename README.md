@@ -3,7 +3,7 @@
 export default () => ({
   
   Name: "Gavin S.",
-  Details: "Fullstack web developer with a focus on react, currently leveling up my skills and looking for a position"
+  Details: "Fullstack web developer with a focus on react, currently leveling up my skills and looking for a position",
   Languages: [ "html", "css", "javascript", "python", "sql", "jsx" ],
   Technologies: {
     FrontEnd: {
