@@ -12,7 +12,7 @@ export default () => ({
     },
     BackEnd: [ "node", "express", "graphql", "sqlite", "postgresql", "okta", "prisma" ],
   },
-  Interests: [ "tech", "gaming", "basketball", "investment trading", "my doggo" ]
+  Interests: [ "tech", "gaming", "basketball", "video editing", "investment trading", "my doggo" ]
 });
 
 ```
