@@ -8,9 +8,9 @@ export default () => ({
   Technologies: {
     FrontEnd: {
       js: [ "react", "graphql", "redux", "context" ],
-      css: [ "scss/less", "material-ui", "reactstrap", "bootstrap" ]
+      css: [ "scss/less", "material-ui", "styled components", "bootstrap" ]
     },
-    BackEnd: [ "node", "express", "graphql", "sqlite", "postgresql", "okta", "prisma" ],
+    BackEnd: [ "node", "express", "graphql", "sqlite", "postgresql", "prisma" ],
   },
   Interests: [ "tech", "gaming", "basketball", "video editing", "investment trading", "my doggo" ]
 });
