@@ -3,16 +3,16 @@
 export default () => ({
   
   Name: "Gavin S.",
-  Details: "Fullstack web developer with a focus on react, currently leveling up my skills and looking for a position",
+  Details: "Fullstack web developer with a focus on JavaScript",
   Languages: [ "html", "css", "javascript", "python", "sql", "jsx" ],
   Technologies: {
     FrontEnd: {
       js: [ "react", "graphql", "redux", "context" ],
-      css: [ "scss/less", "material-ui", "styled components", "bootstrap" ]
+      css: [ "scss/less/sass", "material-ui", "styled components" ]
     },
-    BackEnd: [ "node", "express", "graphql", "sqlite", "postgresql", "prisma" ],
+    BackEnd: [ "node", "express", "graphql", "sqlite", "postgresql" ]
   },
-  Interests: [ "tech", "gaming", "basketball", "video editing", "investment trading", "my doggo" ]
+  Interests: [ "game design", "basketball", "video editing", "investment trading", "my dog" ]
 });
 
 ```
