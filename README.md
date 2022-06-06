@@ -1,9 +1,7 @@
 ```js
-
-export default () => ({
-  
+{
   Name: "Gavin S.",
-  Details: "Fullstack software developer specialized in JavaScript",
+  Details: "Fullstack software developer specialized in JavaScript/React",
   Languages: [ "html", "css", "javascript", "python", "sql", "jsx" ],
   Technologies: {
     FrontEnd: {
@@ -13,6 +11,5 @@ export default () => ({
     BackEnd: [ "node", "express", "graphql", "sqlite", "postgresql" ]
   },
   Interests: [ "game design", "basketball", "video editing", "investment trading", "my dog" ]
-});
-
+}
 ```
