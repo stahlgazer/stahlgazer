@@ -2,9 +2,9 @@
 {
   Name: "Gavin S.",
   Details: "Fullstack software developer specialized in JavaScript/React",
-  Languages: [ "html", "css", "javascript", "python", "sql", "jsx" ],
-  FrontEnd: [ "react", "redux", "context", "scss/less/sass", "material-ui", "styled-components" ],
-  BackEnd: [ "node.js", "express.js", "knex.js", "SQLite", "PostgreSQL" ]
+  Languages: [ "html", "css", "javascript", "python", "sql", "typescript" ],
+  FrontEnd: [ "react", "redux", "context", "scss/less/sass", "tailwind", "styled-components" ],
+  BackEnd: [ "node.js", "express.js", "knex.js", "MySQL", "PostgreSQL" ]
 }
 ```
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
